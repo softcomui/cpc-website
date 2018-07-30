@@ -8,16 +8,12 @@ main: "The department of legal services is responsible for advising the Office o
   the Memoranda of Understanding that govern those relationships/collaborations. The
   department also coordinates formal investigations and hearings, issuance of the
   Council’s Orders, coordination with the Ministry of Justice and Office of the Attorney
-  General, outside counsel, and managing litigation by, or against the Council. \n"
-Field name: 'Other functions of the Department include:'
-list:
-- "•\tManage the Council’s Board Secretariat, Senior Management, and other statutorily
-  created organs of, or within the Council;"
-- "•\tDevelop and draft subsidiary legislation such as regulations and guidelines
-  for onward promulgation; "
-- "•\tPreparing contracts between the Council and third parties, legal advisory opinions
-  and position papers.  "
-- "•\tHandling all other legal issues of the Council."
+  General, outside counsel, and managing litigation by, or against the Council. \n\nOther
+  functions of the Department include:\n\t•\tManage the Council’s Board Secretariat,
+  Senior Management, and other statutorily created organs of, or within the Council;\n\t•\tDevelop
+  and draft subsidiary legislation such as regulations and guidelines for onward promulgation;
+  \n\t•\tPreparing contracts between the Council and third parties, legal advisory
+  opinions and position papers.  \n\t•\tHandling all other legal issues of the Council.\n"
 layout: page
 ---
 
