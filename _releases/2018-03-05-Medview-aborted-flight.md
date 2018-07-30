@@ -1,7 +1,7 @@
 ---
 title: CPC calms nerves on Medview's aborted flight incident, says passengers are
   in safe hands"
-date: 2018-03-05 00:00:00 +01:00
+date: 2018-03-04 12:00:00 -11:00
 ---
 
 Medview Airlines Flight VL2108 operated by a Boeing 737 equipment with a flight schedule of Lagos-Abuja-Maiduguri (LOS-ABV-MIU) completed the Lagos to Abuja segment.  At approximately 1400HRS while attempting to depart Abuja to Maiduguri on the final segment of the sector, the flight had a Ramp Return (return to base after commencing taxiing) on account of a safety issue.

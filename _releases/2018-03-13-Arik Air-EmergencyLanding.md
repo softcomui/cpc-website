@@ -1,7 +1,7 @@
 ---
 title: Arik Air emergency landing - CPC underscores need for additional scrutiny,
   precaution for safe operations, consumer confidence
-date: 2018-03-09 00:00:00 +01:00
+date: 2018-03-08 12:00:00 -11:00
 document: "/uploads/releases/arik.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Consumer Satisfaction, a vital pillar of product loyalty, corporate trust -
   Babatunde Irukera DG, CPC
-date: 2017-11-12 00:00:00 +01:00
+date: 2017-11-11 12:00:00 -11:00
 ---
 
 The Director General of the Consumer Protection Council (CPC), Babatunde Irukera has charged businesses to understand the signs of times and embrace the new order of prioritizing consumer protection as the pre-eminent factor in protecting brand, businesses, managing crisis, building confidence and corporate growth, emphasizing that customer satisfaction is the most vital pillar to loyalty and trust.

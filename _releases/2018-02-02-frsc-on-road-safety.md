@@ -1,6 +1,6 @@
 ---
 title: CPC partners with FRSC on road safety
-date: 2018-02-02 00:00:00 +01:00
+date: 2018-02-01 12:00:00 -11:00
 ---
 
 The Consumer Protection Council (CPC) and the Federal Road Safety Commission (FRSC) have resolved to strengthen partnership on issues of road safety and welfare of consumers. 

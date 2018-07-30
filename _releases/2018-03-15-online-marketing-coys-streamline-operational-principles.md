@@ -1,7 +1,7 @@
 ---
 title: CPC, online marketing coys streamline operational principles for enhanced consumer
   confidence
-date: 2018-03-15 00:00:00 +01:00
+date: 2018-03-14 12:00:00 -11:00
 document: "/uploads/releases/online-marketing.jpg"
 ---
 

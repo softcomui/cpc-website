@@ -1,7 +1,7 @@
 ---
 title: CPC congratulates Airpeace on acquiring the first Boeing 777 to be registered
   in Nigeria
-date: 2018-02-20 00:00:00 +01:00
+date: 2018-02-19 12:00:00 -11:00
 document: "/uploads/releases/airpeace.jpg"
 ---
 

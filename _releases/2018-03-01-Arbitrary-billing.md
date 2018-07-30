@@ -1,7 +1,7 @@
 ---
 title: Arbitrary billing, group disconnection of electricity consumers constitute
   gross consumer abuse - CPC raps DISCOs
-date: 2018-03-01 00:00:00 +01:00
+date: 2018-02-28 12:00:00 -11:00
 ---
 
 The Consumer Protection Council (CPC) has appraised the interaction between the nation’s electricity distribution companies (DISCOs) and their consumers, declaring that arbitrary billing and group disconnection of electricity consumers without consideration for those paying their bills constitute a gross abuse of consumer rights.

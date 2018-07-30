@@ -1,7 +1,7 @@
 ---
 title: 'Compensation to aggrieved consumers: CPC, AFBTE move to develop acceptable
   code'
-date: 2017-05-25 00:00:00 +01:00
+date: 2017-05-24 12:00:00 -11:00
 ---
 
 In a move to provide more succour to aggrieved consumers of beverages and food, the Consumer Protection Council (CPC) and the Association of Food, Beverage and Tobacco Employers (AFBTE) on Wednesday agreed to raise a technical committee to develop a mutually acceptable compensation code to address consumer abuse in the sector.

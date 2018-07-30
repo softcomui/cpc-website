@@ -1,7 +1,7 @@
 ---
 title: 'CPC, NMA to develop Patients’ Bill of Rights for consumer protection - raise
   joint standing committee for collaboration to enhance standards, care of patients '
-date: 2017-06-18 00:00:00 +01:00
+date: 2017-06-17 12:00:00 -11:00
 ---
 
 The Consumer Protection Council (CPC) and the Nigerian Medical Association (NMA) have commenced a process for the formulation of an acceptable Guide to regulate interaction between patients and medical doctors in the country.

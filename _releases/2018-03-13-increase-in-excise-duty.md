@@ -1,7 +1,7 @@
 ---
 title: CPC welcomes increase in excise duty on tobacco, alcoholic products, says it’s
   control to abuse
-date: 2018-03-13 00:00:00 +01:00
+date: 2018-03-12 12:00:00 -11:00
 ---
 
 The Consumer Protection Council (CPC) on Tuesday identified with the Federal Government’s recent increase in excise duty on alcoholic beverages and tobacco products, stressing that it will serve as a measure to reduce the risks of abuse and disease.

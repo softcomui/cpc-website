@@ -1,7 +1,7 @@
 ---
 title: 'Implementation of tobacco control law: CPC pledges fair deal for all stakeholders in
   enforcement'
-date: 2017-07-19 00:00:00 +01:00
+date: 2017-07-18 12:00:00 -11:00
 ---
 
 The Consumer Protection Council (CPC) has assured that it will ensure all interests are balanced in the enforcement of the provisions of the National Tobacco Control Act 2015 for the protection of consumers.
