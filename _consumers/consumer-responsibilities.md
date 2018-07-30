@@ -1,6 +1,10 @@
 ---
 title: Consumer Responsibilities
 permalink: "/consumers/responsibilities/"
+Summary:
+  Summary: "Holistic consumer protection is a collective effort. Its actualisation
+    requires input, not just from manufacturers, service providers and government,
+    but also the consumer. \n\nThe consumer has the responsibility to:"
 List:
 - title: 1. Be Aware
   body: Gather all the information and facts available about a product or service,
@@ -23,10 +27,6 @@ List:
   body: Avoid waste, littering and contributing to pollution. Promote sustainable
     consumption by ensuring that what you consume does not impact on the environment
     negatively.
-Field name:
-  Summary: "Holistic consumer protection is a collective effort. Its actualisation
-    requires input, not just from manufacturers, service providers and government,
-    but also the consumer. \n\nThe consumer has the responsibility to:"
 layout: page
 ---
 
