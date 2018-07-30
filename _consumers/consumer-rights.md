@@ -3,7 +3,7 @@ title: Consumer Rights
 permalink: "/consumers/rights/"
 List:
 - title:
-  - Right to value for money
+  - 1. Right to value for money
   body: Products and services MUST give value for money.
 - title: '2. Right to Safety:'
   body: Protection from hazardous products, services, and production processes.
