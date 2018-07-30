@@ -2,13 +2,17 @@
 title: Consumer Responsibilities
 permalink: "/consumers/responsibilities/"
 Summary:
-  title: 
-  body: Summary
+  title: Summary
+  body: |-
+    Holistic consumer protection is a collective effort. Its actualisation requires input, not just from manufacturers, service providers and government, but also the consumer.
+
+    The consumer has the responsibility to:
 List:
-- title: 
-  body: 
-- title: 
-  body: 
+- title: 1. Be Aware
+  body: Gather all the information and facts available about a product or service,
+    as well as, keep abreast of changes and innovations in the market.
+- title: 2. Beware
+  body: Be alert to the quality and safety of products and services before you purchase.
 - title: 3. Think Independently
   body: Make decisions about well-considered needs and wants.
 - title: 4. Speak Out
@@ -30,15 +34,3 @@ layout: page
 ---
 
 **Summary**
-
-Holistic consumer protection is a collective effort. Its actualisation requires input, not just from manufacturers, service providers and government, but also the consumer.
-
-The consumer has the responsibility to:
-
-1\. **Be Aware**
-
-Gather all the information and facts available about a product or service, as well as, keep abreast of changes and innovations in the market.
-
-2\.** Beware**
-
-Be alert to the quality and safety of products and services before you purchase.
