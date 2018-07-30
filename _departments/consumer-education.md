@@ -1,7 +1,7 @@
 ---
 title: Consumer Education (CE) Department
 permalink: "/about/departments/consumer-education/"
-main: "The Consumer Education Department has the critical task of informing and educating
+main: The Consumer Education Department has the critical task of informing and educating
   consumers about their rights and responsibilities. The department also provides
   timely and useful information about market developments and related issues.  To
   best achieve its mandate and expand the Council’s reach, the department actively
@@ -11,16 +11,18 @@ main: "The Consumer Education Department has the critical task of informing and 
   dissemination channels. More recently, and in order to promote efficiency, as well
   as in recognition of more innovative business strategies to advertise and develop
   customer loyalty, the department is exploring Business Guidance opportunities to
-  leverage on those strategies and apparatus to educate consumers.\n\nCore functions
-  of this department include:\n\t•\tOrganizing and undertaking campaigns and other
-  activities to increase consumer awareness.\n\t•\tEncourage the formation of voluntary
-  consumer groups or associations for consumer welfare including providing support,
-  such as capacity development, recommendations and matching other partners to such
-  groups. \n\t•\tPeriodically publishing products whose consumption and sale have
-  been banned, withdrawn, restricted or unapproved by the Federal Government or foreign
-  governments.\n\t•\tDevelopment, production and dissemination of consumer education
-  materials, including print, audio, and other electronic materials, in applicable
-  languages. \n\nThe department, in collaboration with the Council’s media team, operates
+  leverage on those strategies and apparatus to educate consumers.
+Field name: 'Core functions of this department include:'
+List:
+- "•\tOrganising and undertaking campaigns and other activities to increase consumer
+  awareness."
+- "•\tEncourage the formation of voluntary consumer groups or associations for consumer
+  welfare including "
+- "•\tPeriodically publishing products whose consumption and sale have been banned,
+  withdrawn, restricted or unapproved by the Federal Government or foreign governments."
+- "•\tDevelopment, production and dissemination of consumer education materials, including
+  print, audio, and other electronic materials, in applicable languages. "
+field name: "The department, in collaboration with the Council’s media team, operates
   a full-service studio for producing programs for television and other forms of dissemination.
   \ The studio also records and archives activities and events of the Council for
   educational and reference purposes.  Some of the programs of the department are
@@ -28,7 +30,7 @@ main: "The Consumer Education Department has the critical task of informing and 
   also coordinates radio programs in different languages, for grassroots sensitization
   and awareness.\n\nAnother initiative of the Council coordinated by the department,
   is the publication of a quarterly journal- “The Consumer Voice” which also provides
-  periodic updates about matters consumers need to be aware of. \n\n"
+  periodic updates about matters consumers need to be aware of. "
 layout: page
 ---
 
