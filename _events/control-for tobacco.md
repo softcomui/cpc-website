@@ -15,15 +15,15 @@ caption: 'West Africa Sub-Regional Coordinator, Campaign for Tobacco-free Kids, 
 
 The Consumer Protection Council (CPC) has assured stakeholders that it will ensure all interests are balanced in the enforcement of the provisions of the National Tobacco Control Act 2015, for the protection of consumers.
 
-CPC’s Director General, Babatunde Irukera gave the assurance on Wednesday, July 19, 2017 at the Council’s headquarters in Abuja, when a delegation of the Nigerian Tobacco Control Alliance led by the Chairman of the NTCA Governing Board, who is also the Deputy Director of Environmental Rights Action, Mr. Akinbode Oluwafemi and the Sub- Regional Coordinator, West Africa, of the Campaign for Tobacco-Free Kids, Mrs. Hilda Ochefu, paid him a courtesy visit. 
+CPC’s Director General, Babatunde Irukera gave the assurance on Wednesday, July 19, 2017 at the Council’s headquarters in Abuja, when a delegation of the Nigerian Tobacco Control Alliance led by the Chairman of the NTCA Governing Board, who is also the Deputy Director of Environmental Rights Action, Mr. Akinbode Oluwafemi and the Sub- Regional Coordinator, West Africa, of the Campaign for Tobacco-Free Kids, Mrs. Hilda Ochefu, paid him a courtesy visit.
 
-The delegation visited the Council’s chief executive to request that CPC play a pivotal role in the enforcement of the provisions of the National Tobacco Control Act, among others.
+The delegation visited the Council’s chief executive to request that CPC play a pivotal role in the enforcement of the provisions of the National Tobacco Control Act, amongst others.
 
 The Director General, while responding to the tobacco control community’s request, asserted that “we have a responsibility to enforce every enactment for the protection of consumers in Nigeria, and so, the Tobacco Control Act falls within our mandate and we intend to enforce that”.
 
 He noted that, as far as the Council is concerned, the welfare of consumers in the country remains its primary focus, and as such, the Council would do all that is necessary, within the ambit of law, to protect them, while preserving their right to choose.
 
-According to him, “as far as we are concerned, the law is supreme, and one of the things we try to convey to industry is that, the consumer is king, and we will continue to treat consumers with the royalty they deserve, in whatever it is that we would do. 
+According to him, “as far as we are concerned, the law is supreme, and one of the things we try to convey to industry is that, the consumer is king, and we will continue to treat consumers with the royalty they deserve, in whatever it is that we would do.
 
 “There is a National Tobacco Control Policy, which we are quite aware of. We recognise the need to collaborate with other regulators. For instance, we know that the Standards Organisation of Nigeria (SON) is responsible for standards, whether it’s the chemical components standards, or the packaging and labelling standards. It appears that the Tobacco Control Act makes some fundamental provisions that might affect those. We are studying the provisions, and we are looking at what the roles of the Consumer Protection Council should be with respect to them, and the relationship between what the Act says and what the existing Nigerian National Industrial Standards (NIS) stipulates,” he stated.
 
