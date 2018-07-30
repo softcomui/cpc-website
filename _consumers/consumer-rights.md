@@ -18,7 +18,7 @@ List:
     is entitled to the 3Rs i.e. Repair, Replacement or Refund.
 - title: '6. Right to Consumer Education:'
   body: Acquisition of the skills to be an informed consumer.
-- title: '7.Right to Representation:'
+- title: '7. Right to Representation:'
   body: A consumer has a right to be heard and represented at fora where policies,
     regulations and standards affecting consumers are made.
 layout: page
