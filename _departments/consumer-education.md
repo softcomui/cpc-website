@@ -10,6 +10,7 @@ main: "The department, in collaboration with the Council’s media team, operate
   and awareness.\n\nAnother initiative of the Council coordinated by the department,
   is the publication of a quarterly journal- “The Consumer Voice” which also provides
   periodic updates about matters consumers need to be aware of. "
+Field name: 'Core functions of this department include:'
 List:
 - "•\tOrganising and undertaking campaigns and other activities to increase consumer
   awareness."
