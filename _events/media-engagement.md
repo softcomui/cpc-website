@@ -1,6 +1,6 @@
 ---
 title: CPC holds Critical Engagement with the Media
-date: 2017-11-29 12:00:00 -11:00
+date: 2017-11-30 12:00:00 -11:00
 event_date: 2017-11-30 00:00:00 -11:00
 image: "/uploads/engage-02.jpg"
 event_number: 2
