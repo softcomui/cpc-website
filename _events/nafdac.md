@@ -29,4 +29,3 @@ Speaking after the meeting, the DG of CPC thanked his counterpart in NAFDAC for 
 
 Irukera expressed confidence that the resolutions reached at the meeting will go a long way in addressing questions of quality and standards in the industry, to the benefit of consumers.
 
-\
