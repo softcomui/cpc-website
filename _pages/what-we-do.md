@@ -1,5 +1,5 @@
 ---
-title: What we do
+title: What We Do
 permalink: "/about/what-we-do/"
 show_on_about: true
 summary: 
