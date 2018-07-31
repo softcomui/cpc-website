@@ -22,8 +22,11 @@ Also, they both underscored the urgent need for broad, focused and strategic int
 In particular, Irukera and Adeyeye noted that this problem is a major threat to the key mandate of both organisations, because substandard goods not only violate statutory standards, but also endanger lives and erode consumer confidence.
 
 A major outcome of the meeting was a mutual commitment to jointly deploy the assets and resources of their respective institutions to address this menace.
+
 The meeting further identified other opportunities for cooperation and agreed that follow-up meetings and a structure for joint project execution, is in the best interest of consumers.
 
 Speaking after the meeting, the DG of CPC thanked his counterpart in NAFDAC for her warm reception and readiness to partner, noting that the cooperative regulatory approach she has adopted and endorsed, exemplifies the best possible strategy to secure the nation in the food and drug sector.
 
 Irukera expressed confidence that the resolutions reached at the meeting will go a long way in addressing questions of quality and standards in the industry, to the benefit of consumers.
+
+\
