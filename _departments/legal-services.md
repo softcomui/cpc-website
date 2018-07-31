@@ -9,10 +9,10 @@ The department of legal services is responsible for advising the Office of The D
 
 Other functions of the Department include:\
 	\
-•	Manage the Council’s Board Secretariat, Senior Management, and other statutorily created organs of, or within the Council;\
+•	     Manage the Council’s Board Secretariat, Senior Management, and other statutorily created organs of, or within the Council;\
 	\
-•	Develop and draft subsidiary legislation such as regulations and guidelines for onward promulgation; \
+•	     Develop and draft subsidiary legislation such as regulations and guidelines for onward promulgation; \
 	\
-•	Preparing contracts between the Council and third parties, legal advisory opinions and position papers.  \
+•	     Preparing contracts between the Council and third parties, legal advisory opinions and position papers.  \
 	\
-•	Handling all other legal issues of the Council.
+•	     Handling all other legal issues of the Council.
