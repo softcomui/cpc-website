@@ -1,13 +1,13 @@
 ---
 title: Lami B. Daikwo
-layout: person
 designation: Head, Procurement
 image: "/uploads/people/lami.jpg"
 level: Head
 rank: 11
+layout: person
 ---
 
-Lami Daikwo is the head of the Procurement Unit of the Council.
+Lami Daikwo is the head of the Procurement Unit.
 
 She is a Certified Procurement Officer and member of the Procurement Professional Association of Nigeria, (PPAN) with several years of practicing experience. She has also obtained the Bureau of Public Procurement Certificate as well as the Fraud and Corruption Prevention along the Procurement Value Chain Certificate by PPAN.
 
