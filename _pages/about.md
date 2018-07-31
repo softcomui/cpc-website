@@ -1,5 +1,5 @@
 ---
-title: About us
+title: About Us
 permalink: "/about/"
 description: Our mission is to provide human and useful answers to tech challenges.
 image: "/uploads/organogram.jpg"
