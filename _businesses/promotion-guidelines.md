@@ -9,11 +9,12 @@ document:
 List:
 - title: Introduction
   body: |-
-    a. CPC, as part of its core mandate, pursuant to Sections 11, 12 and 31 of the Consumer Protection Council Act, Cap. 25 LFN 2004, is authorised to regulate any advertisement/statement directed at consumers, for the purpose of affecting them with respect to purchasing and/or using any product/service.
+    *  CPC, as part of its core mandate, pursuant to Sections 11, 12 and 31 of the Consumer Protection Council Act, Cap. 25 LFN 2004, is authorised to regulate any advertisement/statement directed at consumers, for the purpose of affecting them with respect to purchasing and/or using any product/service.
 
-    b. CPC, pursuant to the above powers, developed the Consumer Protection Council (Sales Promotion) Registration Regulations, 2005.
 
-    c. CPC, by these Guidelines, in furtherance of the Consumer Protection Council (Sales Promotion) Registration Regulations, 2005, provides guidance and direction on the process of seeking and securing approval for any sales promotion.
+    * CPC, pursuant to the above powers, developed the Consumer Protection Council (Sales Promotion) Registration Regulations, 2005.
+
+    * CPC, by these Guidelines, in furtherance of the Consumer Protection Council (Sales Promotion) Registration Regulations, 2005, provides guidance and direction on the process of seeking and securing approval for any sales promotion.
 layout: page
 ---
 
