@@ -8,13 +8,13 @@ The Consumer Education Department has the critical task of informing and educati
 
 Core functions of this department include:
 
-* * Organizing and undertaking campaigns and other activities to increase consumer awareness.
-    
+* Organizing and undertaking campaigns and other activities to increase consumer awareness.
+  
 
-  * Encourage the formation of voluntary consumer groups or associations for consumer welfare including providing support, such as capacity development, recommendations and matching other partners to such groups. 
+* Encourage the formation of voluntary consumer groups or associations for consumer welfare including providing support, such as capacity development, recommendations and matching other partners to such groups. 
 
-  * Periodically publishing products whose consumption and sale have been banned, withdrawn, restricted or unapproved by the Federal Government or foreign governments. 
+* Periodically publishing products whose consumption and sale have been banned, withdrawn, restricted or unapproved by the Federal Government or foreign governments. 
 
-  * Development, production and dissemination of consumer education materials, including print, audio, and other electronic materials, in applicable languages.
+* Development, production and dissemination of consumer education materials, including print, audio, and other electronic materials, in applicable languages.
 
 The department, in collaboration with the Council’s media team, operates a full-service studio for producing programs for television and other forms of dissemination.  The studio also records and archives activities and events of the Council for educational and reference purposes.  Some of the programs of the department are regularly aired on television. In addition to television programs, the department also coordinates radio programs in different languages, for grassroots sensitisation and awarenessAnother initiative of the Council coordinated by the department, is the publication of a quarterly journal- “The Consumer Voice” which also provides periodic updates about matters consumers need to be aware of.
