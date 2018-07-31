@@ -1,7 +1,7 @@
 ---
 title: 'Implementation of Tobacco Control Law: CPC pledges fair deal for all stakeholders
   in enforcement.'
-date: 2017-07-18 12:00:00 -11:00
+date: 2017-07-19 12:00:00 -11:00
 event_date: 2017-07-19 00:00:00 -11:00
 image: "/uploads/tobacco-01.jpg"
 event_number: 2
