@@ -6,7 +6,7 @@ title: Director General (DG), Consumer Protection Council (CPC), Babatunde Iruke
   Quality Infrastructure Project (NQIP), Mr. Shaukat Hussain (2nd right) and Board
   Chairperson, Lagos State Consumer Protection Agency (LASCOPA), Mrs. Funmilola Falana.
 date: 2018-07-30 20:20:00 -11:00
-image: "/uploads/the%20cpc%203-395179.png"
+image: "/uploads/the%20cpc%203.jpg"
 dimension: 1012x675
 ---
 
