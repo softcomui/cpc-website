@@ -31,5 +31,3 @@ Oyeyemi further stated that the visit was a renewal of the existing relationship
 As part of the efforts to sustain the relationship, the two leaders resolved to set up a technical committee that would harmonise all areas of mutual interest for greater collaboration in the joint campaigns to protect consumers from the unethical practices of some service providers.
 
 Highlight of the visit was the facility tour undertaken by the Council’s Director General to the FRSC Call Centre and other infrastructural base which support the Commission’s technological innovation for efficient management of traffic in the country.
-
-\
