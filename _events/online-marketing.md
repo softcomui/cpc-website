@@ -17,9 +17,7 @@ The Consumer Protection Council (CPC) and senior management of the online market
 
 The meeting focused on the current consumer experience in the online shopping marketplace. The particular concern that was the subject of discussion was, protecting consumers as well as protecting legitimate and responsible online marketing companies and their brands. Both the Council and the online marketing companies agreed that only a robust, ethical and well-regulated industry can promote consumer confidence and eliminate distrust; prevent fraud and market entry by those who seek to exploit and defraud. Parties also recognized that technological disruption and innovation remain a vital catalyst for economic expansion, commercial penetration and shared prosperity. As such, the Council and online marketing companies acknowledged that clear and transparent guiding principles, guidance and a regulatory framework are important to growing and sustaining a vibrant e-commerce industry. The Council and the online marketing companies adopted certain guiding principles with respect to e-commerce.
 
-
 These principles are:
-
 
 •   Online marketers recognise that a dedicated customer service apparatus, which is an indispensable corollary of e-commerce, is required to ensure engagement and a complaint resolution process which is not burdensome to the customer.
 
