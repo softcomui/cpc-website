@@ -16,5 +16,3 @@ His working career began as a prosecutor with the Lagos State Ministry of Justic
 In 1994, Mr. Tamunokonbia took up an appointment with The Daily Times of Nigeria PLC in Lagos as Legal Officer, and later as an Assistant Company Secretary, and Company Secretary/ Legal Adviser until 2007, when he resigned to join the Consumer Protection Council in Abuja.
 
 At the Consumer Protection Council, Mr. Tamunokonbia has served as Chief Surveillance and Enforcement Officer in 2007; Zonal Coordinator, South East Zonal Office, between August 2007 and August, 2013; Head of Lagos Office from September, 2013 to August, 2015, and Assistant Director Legal Services from August, 2015 to March, 2017.
-
-\
