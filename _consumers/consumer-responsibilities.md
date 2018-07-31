@@ -5,9 +5,11 @@ Summary:
 - title: jnnnnjn dsnj
   body: n mn jmnbjmn knjshdj kskbdsaju
 List:
-- title: 1. Be Aware
-  body: Gather all the information and facts available about a product or service,
-    as well as, keep abreast of changes and innovations in the market.
+- title: Summary
+  body: |-
+    Holistic consumer protection is a collective effort. Its actualisation requires input, not just from manufacturers, service providers and government, but also the consumer.
+
+    The consumer has the responsibility to:
 - title: 2. Beware
   body: Be alert to the quality and safety of products and services before you purchase.
 - title: 3. Think Independently
