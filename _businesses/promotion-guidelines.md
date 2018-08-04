@@ -1,11 +1,11 @@
 ---
-title: Sales Promotions Regulations and Guidelines
+title: Sales Promotions Regulations & Guidelines
 permalink: "/businesses/sales-promotion-guidelines/"
 document:
 - file: "/uploads/files/sales-promotions-regulations.pdf"
-  name: Download the regulations
+  name: Download Regulations
 - file: "/uploads/files/sales-promotions-guidelines.doc"
-  name: Download the guidelines
+  name: Download Guidelines
 List:
 - title: Introduction
   body: |-
