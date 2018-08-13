@@ -220,4 +220,5 @@ exclude:
 - vendor/gems/
 - vendor/ruby/
 - ".gitignore"
+- Gemfile
 - Gemfile.lock

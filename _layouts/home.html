@@ -57,20 +57,20 @@ layout: default
         {% for item in site.actions %}
             <div class="take-action">
                 <h3 class="m-0 pb-1">{{ item.title }}</h3>
-                <ul class="none">
+                <ul class="none disabled ">
                     {% for entry in item.subpages %}
-                    <li>
+                    <li class="{% if entry.name == 'Know your rights' %} enabled {% endif %}">
                         <a href="{% if entry.link contains consumers %} {{ entry.link | prepend: site.url }} {% else %} {{ entry.link  }} {% endif %}">
-                            <div class="p-h boxshadow d-flx mb-h a-i-c disabled">
+                            <div class="p-h boxshadow d-flx mb-h a-i-c">
                                 {% case entry.name %}
                                     {% when 'File a Complaint' %}
                                         {% include tools/icons.html icon="file-complaint" %}
                                     {% when 'Leave a Review' %}
                                         {% include tools/icons.html icon="review" %}
-                                    {% when 'Know your rights' %}
-                                        {% include tools/icons.html icon="track-complaint" %}
                                     {% when 'Track a Complaint' %}
                                         {% include tools/icons.html icon="rights" %}
+                                    {% when 'Know your rights' %} 
+                                        {% include tools/icons.html icon="track-complaint" %}
                                 {% endcase %}
                                 <div>
                                     <h4 class="microtext mb-hh mt-0">{{ entry.name }}</h4>
