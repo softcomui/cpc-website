@@ -1,8 +1,9 @@
 ---
-title: Speech of His Excellency the Vice President Prof Yemi Osinbajo SAN, GCON at the Launch of PBoR
+title: Speech of His Excellency the Vice President Prof Yemi Osinbajo SAN, GCON at
+  the Launch of PBoR
 date: 2018-07-31 12:00:00 -11:00
 document: "/uploads/files/office-of-the-vice-president.pdf"
-name: "Laolu Akande"
+name: Laolu Akande
 ---
 
 #### REMARKS BY HIS EXCELLENCY, PROF. YEMI OSINBAJO, SAN, GCON, VICE PRESIDENT, THE FEDERAL REPUBLIC OF NIGERIA, AT THE LAUNCH OF THE PATIENT’S BILL OF RIGHTS AT THE BANQUET HALL, STATE HOUSE, ABUJA, ON TUESDAY, JULY 31, 2018.

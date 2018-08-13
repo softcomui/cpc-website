@@ -1,8 +1,10 @@
 ---
-title: Speech of the Director General CPC Mr Babatunde Irukera at the Launch of the PBoR
+title: Speech of the Director General CPC Mr Babatunde Irukera at the Launch of the
+  PBoR
 date: 2017-07-31 12:00:00 -11:00
 document: "/uploads/files/dg-pbor-speech-welcome-address.pdf"
 ---
+
 #### "Welcome Address by the Director General of the Consumer Protection Council, Mr. Babatunde Irukera “Patients’ Bill of Rights: Empowering the Consumer” At the Launch of the Patients’ Bill of Rights Banquet Hall, State House"
 
 Good morning Your Excellency, the Vice President of the Federal Republic of Nigeria, Honourable Ministers, Distinguished Senators, fellow heads of agencies, distinguished ladies and gentlemen. 

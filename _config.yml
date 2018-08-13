@@ -61,13 +61,13 @@ collections:
   releases:
     title: Releases
     output: true
-  speeches:
-    title: Speeches
-    output: true
   documents:
     title: Relevant Documents
     output: true
     permalink: "/ngos/:collection/:name/"
+  speeches:
+    title: Speeches
+    output: true
   testimonials:
     title: Testimonials
     output: true
