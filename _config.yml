@@ -144,7 +144,7 @@ shortname: cpc
 legal_tag: The Council
 description: CPC is the apex consumer protection agency in Nigeria established to
   improve the well-being of the people.
-url: 'http://cpc.softcom.ng'
+url: http://cpc.softcom.ng
 charset: utf-8
 pagination:
   enabled: true
