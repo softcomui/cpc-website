@@ -147,7 +147,7 @@ layout: default
                         <p>Phone: {{ site.headquarters.phone }}</p>
                         <a href="mailto:{{ site.headquarters.email }}">{{ site.headquarters.email }}</a>
                     </div>
-                    <img src="{{ page.image }}" alt="">
+                    <img src="{{ page.image | prepend: site.url }}" alt="">
                 </div>
                 <div class="grid is-multi-col mostly-2">
                     {% for item in page.List %}
@@ -191,6 +191,7 @@ layout: default
         {% endif %}
 
         <div class="pb-1">
+            <!-- <img src="{{ page.image | prepend: site.url }}" alt="{{ post.title}}"> -->
             {{ content }}
         </div>
     </div>
@@ -201,8 +202,19 @@ layout: default
     {% for file in page.document %}
     <div class="maxwidth-sl mx-auto clearfix">
         <section class="wrapper">
-            <a href="{{ file.file | prepend: site.url }}" download><button class=" btn btn-brand p-1 border prefix smalltext">{{ file.name }}</button>{% include tools/icons.html icon="download" %}</a>
+            <a href="{{ file.file | prepend: site.url }}" download>
+                <button class=" btn btn-brand p-1 border prefix smalltext">
+                    {{ file.name }}
+                </button>
+                {% include tools/icons.html icon="download" %}
+            </a>
         </section>
     </div>
     {% endfor %}
 {% endif %}
+
+ <!-- {% assign rights = site.publications | where: "pbor", "true" %} 
+ {% for item in rights %}
+<iframe width="30%" src="{{ item.link }}" frameborder="0">
+</iframe>
+{% endfor %} -->

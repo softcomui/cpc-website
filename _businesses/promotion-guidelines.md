@@ -4,7 +4,7 @@ permalink: "/businesses/sales-promotion-guidelines/"
 document:
 - file: "/uploads/files/sales-promotions-regulations.pdf"
   name: Download Regulations
-- file: "/uploads/files/sales-promotions-guidelines.doc"
+- file: "/uploads/files/sales-promotions-guidelines.pdf"
   name: Download Guidelines
 List:
 - title: Introduction

@@ -1,15 +1,45 @@
 ---
 layout: default
 ---
+<div class="mt-1h p-1">
+    <a href="{{ site.url }}/news-events/releases/" class="new-flash maxwidth-lt flash-boxshadow p-1 mx-auto ">
+        <div class=" m-1 ">
+            <button class="newBtn mb-1 ">
+            NEW
+            </button>
+            {% assign reversedReleases = site.publications| reverse %} 
+            {% assign latestRelease = reversedReleases[0] %}
+            <span class="co-readablegray right-float">
+                <strong>
+                    {{ latestRelease.date | date: '%d %b, %Y' }}
+                </strong>
+            </span>
+        </div>
+        <div class=" m-1 p-0 ">
+            <!-- <h4 class=" m-0 ">{{ latestRelease.title }}</h4> -->
+            <span class="co-richblack">
+                {{ latestRelease.content | truncate: 200, '...' }}
+            </span>
+            <span>
+                <h5 class="microtext co-readablegray m-0 mt-1">
+                    {{ latestRelease.name }}
+                </h5>
+                <i class="nanotext co-readablegray m-0">
+                    {{ latestRelease.event }}
+                </i>
+            </span>
+        </div>
+    </a>
+</div>
 
-<div class="maxwidth-sl mx-auto clearfix">
+<div class="maxwidth-sl mx-auto clearfix ">
     <section class="left-70 wrapper">
         <ul class="carousel first-carousel none" data-flickity='{ "autoPlay": 6000, "adaptiveHeight": true, "contain": true, "prevNextButtons": true, "pageDots": false, "wrapAround": true}'>
             {% assign sorted = site.events | where_exp: "page", "page.image contains 'uploads'" %}
             {% for post in sorted limit: 6 %}
                 <li class="carousel-cell">
                     {% if post.image %}
-                    <img src="{{ post.image }}">
+                    <img src="{{ post.image | prepend: site.url}}">
                     {% else %}
                     <img src="{{ site.url }}/uploads/logo.jpg">
                     {% endif %}
@@ -30,7 +60,7 @@ layout: default
                     {% for entry in item.subpages %}
                     <li>
                         <a href="{% if entry.link contains consumers %} {{ entry.link | prepend: site.url }} {% else %} {{ entry.link  }} {% endif %}">
-                            <div class="p-h boxshadow d-flx mb-h a-i-c">
+                            <div class="p-h boxshadow d-flx mb-h a-i-c disabled">
                                 {% case entry.name %}
                                     {% when 'File a Complaint' %}
                                         {% include tools/icons.html icon="file-complaint" %}

@@ -79,7 +79,7 @@ layout: default
 
 
 <section class="maxwidth-sl mx-auto clearfix">
-    <div class="wrapper">
+    <div class="wrapper borderline">
         {% if page.title == "How To..." %}
             <div class="grid is-multi-col py-1 mostly-3">
                 {% assign videos = site.how-tos | where: "isvideo", true %}
@@ -87,7 +87,7 @@ layout: default
                     <a href="{{ item.permalink | prepend: site.url }}">
                         <div class="pos-rel smalltext">
                             {% include tools/icons.html icon="play-button" %}
-                            <img src="{{ item.featured_image }}" alt="">
+                            <img src="{{ item.featured_image | prepend: site.url}}" alt="">
                         </div>
                         <p class="py-1 microtext">
                             {{ item.name }}
@@ -130,9 +130,23 @@ layout: default
                         <figcaption itemprop="caption description" class="nanotext tx-c">{{ item.title }}</figcaption>
                     </figure>
                 {% endfor %}
+            {% else%}
             {% endif %}
-        {% endif %}
         </div>
+
+        {% if page.title == "Patients Bill of Rights (PbOR)" %}
+            <div class="" itemscope itemtype="http://schema.org/ImageGallery"> 
+                {% assign pubs = site.publications | where: "is-pbor", true %}
+                    {% for item in pubs %}
+                     {{ item.content }}
+                    <div class="grid is-multi-col mostly-3" itemscope itemtype="http://schema.org/ImageGallery">
+                        <img src="{{ item.image | prepend: site.url }}">
+                        <img src="{{ item.image1 | prepend: site.url}}">
+                    </div>
+                    {% endfor%}         
+            </div>
+         {% endif %}
+        {% endif %}
     </div>
 </section>
 

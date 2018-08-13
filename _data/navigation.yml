@@ -60,13 +60,15 @@ mainnav:
     url: "/publications/annual-reports/"
   - page: Consumer Education Materials
     url: "/publications/materials/"
-  - page: Others
-    url: "/publications/more"
+  - page: PBOR
+    url: "/publications/PBOR"
 - section: News & Events
   url: "/news-events/"
   pages:
   - page: Releases
     url: "/news-events/releases/"
+  - page: Speeches
+    url: "/news-events/speeches/"
   - page: Announcements
     url: "/news-events/announcements/"
   - page: Alert/Advisory

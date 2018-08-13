@@ -16,7 +16,7 @@ layout: default
             {% endif %}
         </div>
         {% if page.image contains "/" %}
-            <img src="{{ page.image }}" alt="" class="featured-image py-1">
+            <img src="{{ page.image | prepend: site.url }}" alt="" class="featured-image py-1">
         {% endif %}
         {% if page.caption %}
             <p class="pb-2">

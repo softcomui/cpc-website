@@ -1,6 +1,6 @@
 ---
 title: CPA Guidelines
 document: ngos
-file: "/uploads/files/NGO-registration-guidelines.docx"
+file: "/uploads/files/ngo-registration-guidelines.pdf"
 ---
 
