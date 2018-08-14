@@ -37,7 +37,7 @@ layout: default
     <section class="left-70 wrapper">
         <ul class="carousel first-carousel none" data-flickity='{ "autoPlay": 6000, "adaptiveHeight": true, "contain": true, "prevNextButtons": true, "pageDots": false, "wrapAround": true}'>
             {% assign sorted = site.events | where_exp: "page", "page.image contains 'uploads'" %}
-            {% for post in sorted limit: 6 %}
+            {% for post in sorted %}
                 <li class="carousel-cell">
                     {% if post.image %}
                     <img src="{{ post.image | prepend: site.url}}">
