@@ -1,10 +1,11 @@
 ---
-title: 'CPC, in collaboration with Federal Ministry of Health, launches Patients’ Bill of Rights (PBoR)'
+title: CPC, in collaboration with Federal Ministry of Health, launches Patients’ Bill
+  of Rights (PBoR)
 date: 2018-07-31 00:00:00 -11:00
 event_date: 2018-08-14 00:00:00 -11:00
 image: "/uploads/pbor.10.jpg"
 event_number: 2
-caption: 'His Excellency, the Vice President, Prof. Yemi Osinbajo (middle), the Honourable
+caption: His Excellency, the Vice President, Prof. Yemi Osinbajo (middle), the Honourable
   Minister of Health, Prof. Isaac Adewole (third left), the Honourable Minister of
   State, Federal Ministry of Health, Dr. Osagie Ehanire (second left), Chairman, Technical
   Committee of the Patients’ Bill of Rights (PBoR), Dr.Ben Anyene (left), the Director
@@ -13,7 +14,7 @@ caption: 'His Excellency, the Vice President, Prof. Yemi Osinbajo (middle), the 
   (third from right), the country representative of the World Health Organisation
   (WHO), Dr. Rex Mpazanje (second from right), and member, House of Representative,
   Honourable Solomon Maren, representing the Chairman, House Committee on Commerce,
-  Hon. Sylvester Ogbaga.'
+  Hon. Sylvester Ogbaga.
 ---
 
 The Consumer Protection Council (CPC) and the Federal Ministry of Health launched the Patients’ Bill of Rights (PBoR) on Tuesday, July 31, 2018, at the Banquet Hall, State House, Abuja. The event was hosted by His Excellency, the Vice President of Nigeria, Prof. Yemi Osinbajo, SAN, GCON, who was also the Keynote Speaker and the Chief Launcher of the PBoR. 
