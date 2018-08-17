@@ -3,22 +3,38 @@ layout: default
 ---
 
 <div class="mt-1h p-1">
-    <a href="{{ site.url }}/publications/PBOR/" class="new-flash maxwidth-lt flash-boxshadow p-1 mx-auto ">
-        <div class=" m-1 ">
-            <button class="newBtn mb-1 ">
-            NEW
-            </button>
+    <a href="{{ site.url }}/publications/PBOR/" class="flash-a maxwidth-lt flash-boxshadow p-1 mx-auto ">
+        <span class="flash-btn mb-3">
+            <svg class="m-0 flash-svg" width="160" height="70" viewBox="0 0 558 159" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="178" height="53" fill="black" fill-opacity="0" transform="translate(12) scale(3)" />
+                    <path d="M39 159L12 123H39V159Z" fill="#6d0403" />
+                    <g filter="url(#filter0_d)">
+                        <path d="M546 0H12V123H472.5L546 0Z" fill="#ce2523" />
+                    </g>
+                    <defs>
+                        <filter id="filter0_d" x="0" y="0" width="558" height="147" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" />
+                            <feOffset dy="4" />
+                            <feGaussianBlur stdDeviation="2" />
+                            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.18 0" />
+                            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
+                            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+                        </filter>
+                    </defs>
+                </svg>
+            <h4 class="flash-h">NEW</h4>
+            </span>
             {% assign reversedReleases = site.publications| reverse %} 
             {% assign latestRelease = reversedReleases[0] %}
-            <span class="co-readablegray right-float">
-                <strong>
+            <span class="co-readablegray absolute-right ">
+                <strong class="">
                     {{ latestRelease.date | date: '%d %b, %Y' }}
                 </strong>
             </span>
-        </div>
         <div class=" m-1 p-0 ">
             <!-- <h4 class=" m-0 ">{{ latestRelease.title }}</h4> -->
-            <span class="co-richblack">
+            <span class="co-richblack absolute-position">
                 {{ latestRelease.content | truncate: 200, '...' }}
             </span>
             <span>
