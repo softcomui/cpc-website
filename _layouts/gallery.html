@@ -114,9 +114,15 @@ layout: default
             {% if page.title == "Consumer Education Materials" %}
                 {% for item in site.education %}
                 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                    {% if item.document %}
+                    <a href="{{ item.file | prepend: site.url }}" itemprop="contentUrl" data-size="{{ item.dimensions }}" target="_blank">
+                        <img src="{{ item.image | prepend: site.url }}" itemprop="thumbnail" alt="{{ item.title }}" />
+                    </a>
+                    {% else %}
                     <a href="{{ item.image | prepend: site.url }}" itemprop="contentUrl" data-size="{{ item.dimensions }}">
                         <img src="{{ item.image | prepend: site.url }}" itemprop="thumbnail" alt="{{ item.title }}" />
                     </a>
+                    {% endif %}
                     <figcaption itemprop="caption description" class="nanotext tx-c">{{ item.title }}</figcaption>
                 </figure>
                 {% endfor %}
