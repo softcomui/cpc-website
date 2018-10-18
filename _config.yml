@@ -15,6 +15,9 @@ collections:
   blog:
     title: Consumer Blog
     output: true
+  brochure:
+      title:
+      output: true
   education:
     title: Consumer Education Materials
     output: true

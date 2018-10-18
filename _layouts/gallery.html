@@ -110,36 +110,42 @@ layout: default
                 {% endfor %}
             </div>
         {% else %}
-        <div class="grid is-multi-col mostly-4 my-gallery gallery" itemscope itemtype="http://schema.org/ImageGallery">
-            {% if page.title == "Consumer Education Materials" %}
-                {% for item in site.education %}
-                <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                    {% if item.document %}
-                    <a href="{{ item.file | prepend: site.url }}" itemprop="contentUrl" data-size="{{ item.dimensions }}" target="_blank">
-                        <img src="{{ item.image | prepend: site.url }}" itemprop="thumbnail" alt="{{ item.title }}" />
-                    </a>
-                    {% else %}
-                    <a href="{{ item.image | prepend: site.url }}" itemprop="contentUrl" data-size="{{ item.dimensions }}">
-                        <img src="{{ item.image | prepend: site.url }}" itemprop="thumbnail" alt="{{ item.title }}" />
-                    </a>
-                    {% endif %}
-                    <figcaption itemprop="caption description" class="nanotext tx-c">{{ item.title }}</figcaption>
-                </figure>
-                {% endfor %}
-
-            {% elsif page.title == "Gallery" %}
-                {% for item in site.gallery %}
+        <div>
+            <div class="grid is-multi-col mostly-4 my-gallery gallery" itemscope itemtype="http://schema.org/ImageGallery">
+                {% if page.title == "Consumer Education Materials" %}
+                    {% for item in site.education %}
                     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                         <a href="{{ item.image | prepend: site.url }}" itemprop="contentUrl" data-size="{{ item.dimensions }}">
                             <img src="{{ item.image | prepend: site.url }}" itemprop="thumbnail" alt="{{ item.title }}" />
                         </a>
                         <figcaption itemprop="caption description" class="nanotext tx-c">{{ item.title }}</figcaption>
                     </figure>
+                    {% endfor %}
+                    
+                {% elsif page.title == "Gallery" %}
+                    {% for item in site.gallery %}
+                        <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                            <a href="{{ item.image | prepend: site.url }}" itemprop="contentUrl" data-size="{{ item.dimensions }}">
+                                <img src="{{ item.image | prepend: site.url }}" itemprop="thumbnail" alt="{{ item.title }}" />
+                            </a>
+                            <figcaption itemprop="caption description" class="nanotext tx-c">{{ item.title }}</figcaption>
+                        </figure>
+                    {% endfor %}
+                {% else%}
+                {% endif %}
+            </div>
+            {% if page.title == "Consumer Education Materials" %}
+            <div class="grid is-multi-col mostly-4">
+                {% for item in site.brochure %}
+                <figure >
+                    <a href="{{ item.link | prepend: site.url }}" >
+                        <img src="{{ item.image1 | prepend: site.url }}"  alt="{{ item.title }}" />
+                    </a>
+                </figure>
                 {% endfor %}
-            {% else%}
+            </div>
             {% endif %}
         </div>
-
         {% if page.title == "Patients Bill of Rights (PbOR)" %}
             <div class="" itemscope itemtype="http://schema.org/ImageGallery"> 
                 {% assign pubs = site.publications | where: "is-pbor", true %}
