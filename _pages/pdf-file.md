@@ -1,4 +1,4 @@
 ---
 layout: pdf-file
-permalink: /pdf-file
+permalink: /publications/cpc-brochure-pdf
 ---
