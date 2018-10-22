@@ -1,5 +1,5 @@
 ---
+permalink: "/publications/materials/cpc-brochure"
 layout: pdf-file
-permalink: '/publications/materials/cpc-brochure'
 ---
 
