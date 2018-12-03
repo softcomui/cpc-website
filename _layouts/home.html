@@ -73,7 +73,7 @@ layout: default
         {% for item in site.actions %}
             <div class="take-action">
                 <h3 class="m-0 pb-1">{{ item.title }}</h3>
-                <ul class="none disabled ">
+                <ul class="none">
                     {% for entry in item.subpages %}
                     <li class="{% if entry.name == 'Know your rights' %} enabled {% endif %}">
                         <a href="{% if entry.link contains consumers %} {{ entry.link | prepend: site.url }} {% else %} {{ entry.link  }} {% endif %}">
