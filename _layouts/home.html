@@ -76,7 +76,7 @@ layout: default
                 <ul class="none">
                     {% for entry in item.subpages %}
                     <li class="{% if entry.name == 'Know your rights' %} enabled {% endif %}">
-                        <a href="{% if entry.link contains consumers %} {{ entry.link | prepend: site.url }} {% else %} {{ entry.link  }} {% endif %}">
+                        <a href="{% if entry.link contains consumers %} {{ entry.link | prepend: site.url }} {% else %} {{ entry.link  }} {% endif %}" target="_blank">
                             <div class="p-h boxshadow d-flx mb-h a-i-c">
                                 {% case entry.name %}
                                     {% when 'File a Complaint' %}
