@@ -1,6 +1,5 @@
 ---
-title: 'Hyundai Sonata, Santa Fe: CPC provides online channel to drive recall process
-  in Nigeria'
+title: jhvgjcfc
 date: 2019-01-24 23:51:00 -11:00
 image: "/uploads/HYUNDAI%20SANTA%20FE.png"
 ---
