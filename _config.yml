@@ -158,7 +158,7 @@ actions:
 - title: Take Action
   subpages:
   - name: File a Complaint
-    link: http://user.cpc.softcom.ng/signin
+    link: http://user.cpc.gov.ng/signin
     text: Filing a complaint will help CPC to serve you better.
   - name: Leave a Review
     link: http://user.cpc.softcom.ng/signin
