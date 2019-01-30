@@ -158,16 +158,16 @@ actions:
 - title: Take Action
   subpages:
   - name: File a Complaint
-    # link: http://user.cpc.gov.ng/signin
+    link: http://user.cpc.gov.ng/signin
     text: Filing a complaint will help CPC to serve you better.
   - name: Leave a Review
-    # link: http://user.cpc.gov.ng/signin
+    link: http://user.cpc.gov.ng/signin
     text: Your reviews can help businesses know how they are performing.
   - name: Track a Complaint
-    # link: http://user.cpc.gov.ng/signin
+    link: http://user.cpc.gov.ng/signin
     text: Keep track of your complaints and account with CPC.
   - name: Know your rights
-    # link: "/consumers/rights"
+    link: "/consumers/rights"
     text: Know your rights and responsibilities as a consumer.
 social_media:
 - title: Social
