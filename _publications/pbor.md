@@ -16,8 +16,7 @@ document:
     PBoR
 List:
 - title: 
-  body: ''
-layout: pbor
+  body: 
 event: Speech at launch of PBoR
 videos:
 - link: https://www.youtube.com/embed/LIOUAGIt7I4
@@ -28,6 +27,7 @@ videos:
   name: LAUNCH OF THE PATIENTS' BILL OF RIGHTS VTS 3
 - link: https://www.youtube.com/embed/aezSiC9ppTg
   name: LAUNCH OF THE PATIENTS BILL OF RIGHTS VTS 4
+layout: pbor
 ---
 
  **"The PBoR is our boldest step yet in soft infrastructure in healthcare.  It is the vital vehicle upon which, even physical infrastructure must ride to truly deliver service."**
