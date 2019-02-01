@@ -93,7 +93,7 @@ DEPENDENCIES
   jekyll (= 3.8.5)
   jekyll-algolia
   jekyll-feed (~> 0.6)
-  jekyll-paginate-v2
+  jekyll-paginate-v2 (= 2.0.0)
   jekyll-seo-tag
   jekyll-sitemap (~> 1.2)
   kramdown-parser-gfm

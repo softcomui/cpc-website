@@ -8,7 +8,7 @@ group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.6'
   gem 'jekyll-sitemap', '~> 1.2'
   gem 'jekyll-seo-tag'
-  gem 'jekyll-paginate-v2'
+  gem 'jekyll-paginate-v2','2.0.0'
   gem 'jekyll-algolia'
   gem 'kramdown-parser-gfm'
 end
