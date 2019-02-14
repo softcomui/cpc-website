@@ -1,54 +1,38 @@
 ---
 layout: default
 ---
-
-<div class="mt-1h p-1">
-    <a href="{{ site.url }}/publications/PBOR/" class="flash-a maxwidth-lt flash-boxshadow p-1 mx-auto ">
-        <span class="flash-btn mb-3">
-            <svg class="m-0 flash-svg" width="160" height="70" viewBox="0 0 558 159" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <rect width="178" height="53" fill="black" fill-opacity="0" transform="translate(12) scale(3)" />
-                    <path d="M39 159L12 123H39V159Z" fill="#6d0403" />
-                    <g filter="url(#filter0_d)">
-                        <path d="M546 0H12V123H472.5L546 0Z" fill="#ce2523" />
-                    </g>
-                    <defs>
-                        <filter id="filter0_d" x="0" y="0" width="558" height="147" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                            <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" />
-                            <feOffset dy="4" />
-                            <feGaussianBlur stdDeviation="2" />
-                            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.18 0" />
-                            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
-                            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
-                        </filter>
-                    </defs>
-                </svg>
-            <h4 class="flash-h nano-caps">NEW</h4>
-            </span>
-            {% assign reversedReleases = site.publications| reverse %} 
-            {% assign latestRelease = reversedReleases[0] %}
-            <span class="co-readablegray absolute-right ">
-                <strong class="">
-                    {{ latestRelease.date | date: '%d %b, %Y' }}
-                </strong>
-            </span>
-        <div class=" m-1 p-0 ">
-            <!-- <h4 class=" m-0 ">{{ latestRelease.title }}</h4> -->
-            <span class="co-richblack absolute-position">
+<div class="mt-h p-1 pb-h">
+    <a href="{{ site.url }}/publications/PBOR/" class="flash-a maxwidth-lt flash-boxshadow mx-auto p-h">
+        <span class="flash-btn">
+            <svg class="flash-svg" width="140" height="70" viewBox="0 0 558 159" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="178" height="53" fill="black" fill-opacity="0" transform="translate(12) scale(3)" />
+                <path d="M39 159L12 123H39V159Z" fill="#6d0403" />
+                <g filter="url(#filter0_d)">
+                    <path d="M546 0H12V123H472.5L546 0Z" fill="#ce2523" />
+                </g>
+                <defs>
+                    <filter id="filter0_d" x="0" y="0" width="558" height="147" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" />
+                        <feOffset dy="4" />
+                        <feGaussianBlur stdDeviation="2" />
+                        <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.18 0" />
+                        <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
+                        <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+                    </filter>
+                </defs>
+            </svg>
+            <h4 class="flash-h">NEW</h4>
+        </span>
+        {% assign reversedReleases = site.publications| reverse %} 
+        {% assign latestRelease = reversedReleases[0] %}
+        <div class="ml-4 p-0 ">
+            <span class="co-richblack absolute-position nanotext">
                 {{ latestRelease.content | truncate: 200, '...' }}
-            </span>
-            <span>
-                <h5 class="microtext co-readablegray m-0 mt-1">
-                    {{ latestRelease.name }}
-                </h5>
-                <i class="nanotext co-readablegray m-0">
-                    {{ latestRelease.event }}
-                </i>
             </span>
         </div>
     </a>
 </div>
-
 <div class="maxwidth-sl mx-auto clearfix ">
     <section class="left-70 wrapper">
         <ul class="carousel first-carousel none" data-flickity='{ "autoPlay": 6000, "adaptiveHeight": true, "contain": true, "prevNextButtons": true, "pageDots": false, "wrapAround": true}'>
@@ -101,11 +85,6 @@ layout: default
         {% endfor %}
     </aside>
 </div>
-
-
-<!-- {% include components/stats.html %} -->
-
-
 <section class="maxwidth-sl mx-auto">
     <div class="wrapper grid is-multi-col mostly-2">
         <ul class="carousel none" data-flickity='{ "autoPlay": 4000, "contain": true, "prevNextButtons": true, "pageDots": false, "wrapAround": true}'>
@@ -123,35 +102,5 @@ layout: default
         {% endfor %}
     </div>
 </section>
-
-<!-- <section class="maxwidth-sl mx-auto">
-    <div class="wrapper">
-        <div class="d-flx al-i-c mb-2">
-            <h3 class="m-0 prefix is-even-wider">Consumer Blog</h3>
-            <a href="{{ site.url}}/blog"><span class="suffix nanotext prefix">View More {% include tools/icons.html icon="chevron-right" %}</span></a>
-        </div>
-        <div class="grid is-multi-col mostly-2">
-                {% assign sorted = site.blog | where_exp: "page", "page.image contains 'uploads'" %}
-                {% for post in sorted limit: 2 %}
-            <a href="{{ post.url | prepend: site.url }}">
-                <div class="d-flx fw-w">
-                    {% if post.image %}
-                    <img src="{{ post.image | prepend: site.url }}" class="left-50-persisted prefix is-wider blog-image" alt="">
-                    {% else %}
-                    <img src="{{ site.url }}/uploads/logo.jpg">
-                    {% endif %}
-                        <div class="microtext smalllh co-readablegray">
-                            <h3 class="m-0 smalltext">{{ post.title | truncatewords: 8 }}</h3>
-                            <p>
-                                {{ post.content | truncatewords: 20 }}
-                            </p>
-                            <span class="prefix microtext co-primary">Read More {% include tools/icons.html icon="chevron-right" %}</span>
-                        </div>
-                    </div>
-                    </a>
-            {% endfor %}
-        </div>
-    </div>
-</section> -->
 
 
