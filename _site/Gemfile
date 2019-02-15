@@ -10,5 +10,4 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-paginate-v2','2.0.0'
   gem 'jekyll-algolia'
-  gem 'kramdown-parser-gfm'
 end
